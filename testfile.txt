@@ -1,5 +1,9 @@
 this is test file for sample download
+<<<<<<< HEAD
 
 this is the 2nd commite.
 ZZ
 
+=======
+this a second commite
+>>>>>>> 94cfd270588ca0ced5b639c47c78871815ecce18
