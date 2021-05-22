@@ -7,4 +7,12 @@ this is just for testing git revert
 
 this is comparision class
 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 this is the urgent bug fix that is done
+=======
+this is stach lecture in sample test file 1 
+>>>>>>> Stashed changes
+=======
+this is stach lecture in sample test file 1 
+>>>>>>> Stashed changes
